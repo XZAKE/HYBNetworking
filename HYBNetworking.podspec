@@ -132,6 +132,6 @@ s.platform     = :ios, "6.0"
   s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
- s.dependency "AFNetworking", "~> 2.5.3"
+ s.dependency "AFNetworking", "~> 3.0.4"
 
 end
