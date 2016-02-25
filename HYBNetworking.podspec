@@ -79,7 +79,7 @@ s.platform     = :ios, "6.0"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/CoderJackyHuang/HYBNetworking.git", :tag => "2.0.0" }
+  s.source       = { :git => "https://github.com/CoderJackyHuang/HYBNetworking.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
